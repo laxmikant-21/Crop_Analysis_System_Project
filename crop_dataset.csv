@@ -1,0 +1,181 @@
+Crop,State,Year,Season,Area (ha),Production (tonnes),Yield (kg/ha),SoilType,Rainfall (mm),Temperature (°C)
+Jowar,Uttar Pradesh,2020,Kharif,1859,5577,3000,Loamy,597,18.5
+Barley,Uttar Pradesh,2020,Rabi,1931,4827.5,2500,Clayey,543,23.3
+Groundnut,Uttar Pradesh,2021,Kharif,1409,2818,2000,Black,1083,24.6
+Barley,Uttar Pradesh,2021,Rabi,1965,5895,3000,Sandy,621,29.3
+Jowar,Uttar Pradesh,2022,Kharif,1690,3380,2000,Loamy,629,18.8
+Barley,Uttar Pradesh,2022,Rabi,1013,2532.5,2500,Loamy,388,19.3
+Groundnut,Uttar Pradesh,2023,Kharif,946,2838,3000,Sandy,779,20.5
+Wheat,Uttar Pradesh,2023,Rabi,1414,4242,3000,Sandy,1246,26.1
+Groundnut,Uttar Pradesh,2024,Kharif,1835,3670,2000,Clayey,525,30.1
+Wheat,Uttar Pradesh,2024,Rabi,1083,3790.5,3500,Sandy,412,27
+Soybean,Uttar Pradesh,2025,Kharif,1352,4732,3500,Black,312,23.3
+Mustard,Uttar Pradesh,2025,Rabi,1147,4014.5,3500,Clayey,1191,18.5
+Groundnut,Punjab,2020,Kharif,1711,5988.5,3500,Sandy,1130,29
+Chana,Punjab,2020,Rabi,1335,5340,4000,Sandy,1009,18.8
+Groundnut,Punjab,2021,Kharif,1407,2814,2000,Loamy,445,18.8
+Chana,Punjab,2021,Rabi,1082,4328,4000,Sandy,989,25.1
+Bajra,Punjab,2022,Kharif,914,3199,3500,Loamy,404,26.6
+Barley,Punjab,2022,Rabi,1146,3438,3000,Black,656,28.9
+Bajra,Punjab,2023,Kharif,1666,5831,3500,Clayey,1021,26.1
+Mustard,Punjab,2023,Rabi,1296,4536,3500,Loamy,1108,23.9
+Jowar,Punjab,2024,Kharif,1382,4146,3000,Black,974,23.3
+Barley,Punjab,2024,Rabi,1224,4284,3500,Loamy,908,21.8
+Groundnut,Punjab,2025,Kharif,1763,7052,4000,Sandy,1267,18.9
+Barley,Punjab,2025,Rabi,1089,4356,4000,Clayey,1066,28.9
+Bajra,Haryana,2020,Kharif,1209,3627,3000,Loamy,953,28.9
+Chana,Haryana,2020,Rabi,1400,5600,4000,Black,1078,19
+Jowar,Haryana,2021,Kharif,1177,4708,4000,Loamy,694,24.9
+Barley,Haryana,2021,Rabi,1832,6412,3500,Clayey,1220,28
+Bajra,Haryana,2022,Kharif,1286,2572,2000,Sandy,587,18.6
+Mustard,Haryana,2022,Rabi,1195,2390,2000,Loamy,429,31.9
+Jowar,Haryana,2023,Kharif,1106,2212,2000,Sandy,539,31.9
+Wheat,Haryana,2023,Rabi,1841,6443.5,3500,Clayey,1235,19.4
+Jowar,Haryana,2024,Kharif,876,2628,3000,Loamy,1043,29.7
+Barley,Haryana,2024,Rabi,1080,2160,2000,Loamy,609,23.1
+Bajra,Haryana,2025,Kharif,1303,3257.5,2500,Loamy,1208,20.6
+Chana,Haryana,2025,Rabi,1728,5184,3000,Clayey,673,21.3
+Groundnut,Madhya Pradesh,2020,Kharif,1073,4292,4000,Sandy,319,23.2
+Wheat,Madhya Pradesh,2020,Rabi,861,3444,4000,Clayey,935,21.8
+Bajra,Madhya Pradesh,2021,Kharif,1843,5529,3000,Sandy,535,28.1
+Wheat,Madhya Pradesh,2021,Rabi,1533,6132,4000,Clayey,1215,23.8
+Bajra,Madhya Pradesh,2022,Kharif,903,1806,2000,Clayey,702,19
+Wheat,Madhya Pradesh,2022,Rabi,1260,2520,2000,Sandy,992,27.2
+Soybean,Madhya Pradesh,2023,Kharif,1419,2838,2000,Black,763,21.4
+Chana,Madhya Pradesh,2023,Rabi,1583,3166,2000,Sandy,1254,21.7
+Groundnut,Madhya Pradesh,2024,Kharif,1293,5172,4000,Clayey,598,23
+Barley,Madhya Pradesh,2024,Rabi,834,3336,4000,Loamy,1173,18.1
+Bajra,Madhya Pradesh,2025,Kharif,1960,7840,4000,Clayey,1023,25.2
+Mustard,Madhya Pradesh,2025,Rabi,1491,5218.5,3500,Black,1052,24.6
+Bajra,Rajasthan,2020,Kharif,1148,2296,2000,Sandy,1172,19.2
+Wheat,Rajasthan,2020,Rabi,1431,4293,3000,Clayey,1140,25.4
+Groundnut,Rajasthan,2021,Kharif,1098,2745,2500,Sandy,635,21.1
+Barley,Rajasthan,2021,Rabi,1924,5772,3000,Clayey,274,28.7
+Soybean,Rajasthan,2022,Kharif,1733,6932,4000,Loamy,296,19.9
+Mustard,Rajasthan,2022,Rabi,1410,2820,2000,Sandy,360,27.5
+Jowar,Rajasthan,2023,Kharif,1833,5499,3000,Sandy,668,23.1
+Wheat,Rajasthan,2023,Rabi,1640,3280,2000,Clayey,987,22
+Bajra,Rajasthan,2024,Kharif,1317,3951,3000,Clayey,496,22.3
+Chana,Rajasthan,2024,Rabi,1609,6436,4000,Loamy,1194,30.9
+Bajra,Rajasthan,2025,Kharif,865,3027.5,3500,Loamy,1155,20.2
+Chana,Rajasthan,2025,Rabi,1049,2622.5,2500,Clayey,693,20.3
+Jowar,Maharashtra,2020,Kharif,1666,4165,2500,Clayey,1144,29.8
+Chana,Maharashtra,2020,Rabi,1749,6121.5,3500,Sandy,685,24.1
+Jowar,Maharashtra,2021,Kharif,1978,7912,4000,Clayey,724,25.5
+Wheat,Maharashtra,2021,Rabi,1791,6268.5,3500,Clayey,292,18.5
+Bajra,Maharashtra,2022,Kharif,1850,4625,2500,Sandy,790,22.9
+Chana,Maharashtra,2022,Rabi,1111,3333,3000,Sandy,934,30.4
+Groundnut,Maharashtra,2023,Kharif,1834,4585,2500,Clayey,543,27.8
+Wheat,Maharashtra,2023,Rabi,1178,2356,2000,Sandy,497,26.3
+Bajra,Maharashtra,2024,Kharif,1889,4722.5,2500,Black,250,31.3
+Mustard,Maharashtra,2024,Rabi,940,3290,3500,Black,1075,18.2
+Jowar,Maharashtra,2025,Kharif,1480,3700,2500,Sandy,1221,27.3
+Mustard,Maharashtra,2025,Rabi,1120,2240,2000,Black,756,26.1
+Bajra,West Bengal,2020,Kharif,1885,4712.5,2500,Sandy,392,22.8
+Chana,West Bengal,2020,Rabi,1214,3035,2500,Clayey,899,26.6
+Bajra,West Bengal,2021,Kharif,1023,2557.5,2500,Sandy,319,25.2
+Barley,West Bengal,2021,Rabi,1417,4251,3000,Clayey,1202,29.6
+Soybean,West Bengal,2022,Kharif,1867,7468,4000,Black,417,18.5
+Chana,West Bengal,2022,Rabi,1613,5645.5,3500,Clayey,318,24.5
+Soybean,West Bengal,2023,Kharif,1549,3098,2000,Loamy,400,28.1
+Wheat,West Bengal,2023,Rabi,1844,7376,4000,Loamy,582,19
+Groundnut,West Bengal,2024,Kharif,1231,3693,3000,Loamy,961,18.8
+Barley,West Bengal,2024,Rabi,1681,4202.5,2500,Clayey,1097,26.5
+Groundnut,West Bengal,2025,Kharif,897,2691,3000,Sandy,1173,24.2
+Barley,West Bengal,2025,Rabi,826,3304,4000,Loamy,973,31.7
+Groundnut,Bihar,2020,Kharif,1221,3052.5,2500,Sandy,753,20.3
+Wheat,Bihar,2020,Rabi,1661,5813.5,3500,Loamy,1280,28.7
+Bajra,Bihar,2021,Kharif,950,3800,4000,Clayey,1124,24.4
+Mustard,Bihar,2021,Rabi,1483,5190.5,3500,Clayey,415,19.5
+Groundnut,Bihar,2022,Kharif,1526,5341,3500,Sandy,737,30
+Wheat,Bihar,2022,Rabi,1087,2717.5,2500,Black,724,28.6
+Soybean,Bihar,2023,Kharif,1841,5523,3000,Loamy,1223,23
+Chana,Bihar,2023,Rabi,830,3320,4000,Loamy,346,23.6
+Bajra,Bihar,2024,Kharif,1846,5538,3000,Black,348,25.1
+Wheat,Bihar,2024,Rabi,1815,7260,4000,Loamy,587,22.7
+Bajra,Bihar,2025,Kharif,953,3335.5,3500,Loamy,710,21.9
+Mustard,Bihar,2025,Rabi,1570,5495,3500,Sandy,267,20.5
+Bajra,Andhra Pradesh,2020,Kharif,1580,5530,3500,Sandy,1163,24.6
+Mustard,Andhra Pradesh,2020,Rabi,1299,2598,2000,Sandy,988,25.6
+Groundnut,Andhra Pradesh,2021,Kharif,1122,2244,2000,Loamy,1151,26.4
+Barley,Andhra Pradesh,2021,Rabi,1179,2947.5,2500,Clayey,969,27.5
+Soybean,Andhra Pradesh,2022,Kharif,989,3956,4000,Clayey,524,29.2
+Mustard,Andhra Pradesh,2022,Rabi,1347,4714.5,3500,Black,557,27.5
+Groundnut,Andhra Pradesh,2023,Kharif,1683,5049,3000,Sandy,1250,24.2
+Mustard,Andhra Pradesh,2023,Rabi,1842,6447,3500,Black,359,28.7
+Bajra,Andhra Pradesh,2024,Kharif,1357,4071,3000,Black,1281,18.1
+Barley,Andhra Pradesh,2024,Rabi,928,3248,3500,Sandy,615,28.3
+Bajra,Andhra Pradesh,2025,Kharif,1938,5814,3000,Loamy,876,25.3
+Wheat,Andhra Pradesh,2025,Rabi,1327,2654,2000,Loamy,427,31.1
+Groundnut,Telangana,2020,Kharif,1063,4252,4000,Loamy,771,19.9
+Barley,Telangana,2020,Rabi,1729,6051.5,3500,Black,671,19.1
+Jowar,Telangana,2021,Kharif,1441,2882,2000,Loamy,338,22.4
+Barley,Telangana,2021,Rabi,1819,3638,2000,Clayey,1014,19.9
+Bajra,Telangana,2022,Kharif,1548,3096,2000,Clayey,1078,28.6
+Barley,Telangana,2022,Rabi,1506,4518,3000,Black,916,28.4
+Jowar,Telangana,2023,Kharif,1592,4776,3000,Black,1202,29.2
+Chana,Telangana,2023,Rabi,887,2661,3000,Clayey,702,22.6
+Groundnut,Telangana,2024,Kharif,1760,5280,3000,Sandy,493,20.8
+Barley,Telangana,2024,Rabi,1121,2242,2000,Black,571,32
+Bajra,Telangana,2025,Kharif,1777,6219.5,3500,Loamy,451,30.1
+Wheat,Telangana,2025,Rabi,800,1600,2000,Loamy,401,30.1
+Soybean,Gujarat,2020,Kharif,1566,4698,3000,Black,737,22.2
+Mustard,Gujarat,2020,Rabi,1484,3710,2500,Loamy,808,22.4
+Jowar,Gujarat,2021,Kharif,1337,4679.5,3500,Loamy,642,20.8
+Mustard,Gujarat,2021,Rabi,835,2087.5,2500,Black,477,29.1
+Soybean,Gujarat,2022,Kharif,1605,5617.5,3500,Black,846,19.8
+Chana,Gujarat,2022,Rabi,1259,3147.5,2500,Black,798,25.1
+Soybean,Gujarat,2023,Kharif,1745,6107.5,3500,Clayey,1281,26.7
+Barley,Gujarat,2023,Rabi,985,2462.5,2500,Clayey,784,21.7
+Jowar,Gujarat,2024,Kharif,1680,4200,2500,Sandy,531,19.1
+Wheat,Gujarat,2024,Rabi,1632,4080,2500,Clayey,786,22.6
+Jowar,Gujarat,2025,Kharif,1069,2672.5,2500,Clayey,1240,29
+Chana,Gujarat,2025,Rabi,999,1998,2000,Black,1113,27.8
+Jowar,Karnataka,2020,Kharif,1394,5576,4000,Clayey,1077,20.3
+Barley,Karnataka,2020,Rabi,1437,5748,4000,Black,357,25.2
+Jowar,Karnataka,2021,Kharif,1919,7676,4000,Black,891,27
+Chana,Karnataka,2021,Rabi,1902,3804,2000,Clayey,427,23.6
+Groundnut,Karnataka,2022,Kharif,1517,6068,4000,Black,712,20.4
+Mustard,Karnataka,2022,Rabi,1329,3322.5,2500,Sandy,1271,27.8
+Soybean,Karnataka,2023,Kharif,1658,5803,3500,Sandy,990,22.1
+Barley,Karnataka,2023,Rabi,1017,2542.5,2500,Sandy,613,22.5
+Soybean,Karnataka,2024,Kharif,1241,3102.5,2500,Loamy,727,30.9
+Barley,Karnataka,2024,Rabi,1174,4696,4000,Clayey,1000,25.9
+Bajra,Karnataka,2025,Kharif,878,2634,3000,Clayey,1134,23.1
+Chana,Karnataka,2025,Rabi,1721,3442,2000,Clayey,1263,31.4
+Jowar,Tamil Nadu,2020,Kharif,1606,4015,2500,Clayey,724,24.3
+Mustard,Tamil Nadu,2020,Rabi,1582,4746,3000,Loamy,385,31.3
+Jowar,Tamil Nadu,2021,Kharif,1973,6905.5,3500,Sandy,296,20.1
+Chana,Tamil Nadu,2021,Rabi,1604,5614,3500,Clayey,1066,31.2
+Soybean,Tamil Nadu,2022,Kharif,1256,3768,3000,Sandy,1177,30.4
+Chana,Tamil Nadu,2022,Rabi,1102,2204,2000,Sandy,569,18.5
+Jowar,Tamil Nadu,2023,Kharif,829,2487,3000,Loamy,1252,23.2
+Mustard,Tamil Nadu,2023,Rabi,1003,3009,3000,Sandy,1136,27.2
+Soybean,Tamil Nadu,2024,Kharif,1955,6842.5,3500,Sandy,663,25.4
+Barley,Tamil Nadu,2024,Rabi,895,1790,2000,Black,732,29.9
+Jowar,Tamil Nadu,2025,Kharif,1147,3441,3000,Black,414,18.3
+Barley,Tamil Nadu,2025,Rabi,958,3353,3500,Loamy,696,28.6
+Bajra,Odisha,2020,Kharif,1351,4728.5,3500,Sandy,281,23.5
+Chana,Odisha,2020,Rabi,1154,2308,2000,Loamy,355,19.7
+Soybean,Odisha,2021,Kharif,1303,3257.5,2500,Black,285,27.5
+Chana,Odisha,2021,Rabi,1625,6500,4000,Sandy,281,29.9
+Groundnut,Odisha,2022,Kharif,1291,3227.5,2500,Black,821,18.5
+Mustard,Odisha,2022,Rabi,1986,6951,3500,Sandy,952,27.8
+Bajra,Odisha,2023,Kharif,1223,4892,4000,Sandy,508,22.7
+Barley,Odisha,2023,Rabi,929,2787,3000,Clayey,1122,18.2
+Bajra,Odisha,2024,Kharif,1510,3020,2000,Black,883,18.6
+Barley,Odisha,2024,Rabi,1692,6768,4000,Black,1293,24.5
+Soybean,Odisha,2025,Kharif,1385,5540,4000,Loamy,325,27.6
+Wheat,Odisha,2025,Rabi,1773,5319,3000,Sandy,769,25.8
+Bajra,Chhattisgarh,2020,Kharif,2000,4000,2000,Loamy,638,19.5
+Chana,Chhattisgarh,2020,Rabi,1514,5299,3500,Clayey,991,28.2
+Bajra,Chhattisgarh,2021,Kharif,1734,4335,2500,Clayey,1053,26.9
+Mustard,Chhattisgarh,2021,Rabi,1638,5733,3500,Clayey,260,29.3
+Soybean,Chhattisgarh,2022,Kharif,1692,5922,3500,Black,626,27.4
+Barley,Chhattisgarh,2022,Rabi,1902,7608,4000,Sandy,1187,28.1
+Bajra,Chhattisgarh,2023,Kharif,1129,2822.5,2500,Black,813,20.1
+Mustard,Chhattisgarh,2023,Rabi,1455,3637.5,2500,Sandy,1167,18.8
+Soybean,Chhattisgarh,2024,Kharif,1206,4824,4000,Clayey,670,31.1
+Barley,Chhattisgarh,2024,Rabi,1498,3745,2500,Sandy,692,27.3
+Bajra,Chhattisgarh,2025,Kharif,1414,2828,2000,Loamy,300,24.8
+Chana,Chhattisgarh,2025,Rabi,1432,4296,3000,Clayey,710,19.6
